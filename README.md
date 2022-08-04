@@ -1,0 +1,5 @@
+- 👋 Top of the Mornin', I’m @EzekielSmith107
+- 👀 I’m interested in gameplay development and AI in video games.
+- 🌱 I’m currently learning Java and hope to begin some C++, soon. 
+- 💞️ I’m looking to collaborate on game dev projects!
+- 📫 You can reach me on LinkedIn if you're interested.
